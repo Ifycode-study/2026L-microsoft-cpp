@@ -1,7 +1,7 @@
 
 
 // Run code with command:
-// g++ c1m1_lab_4/*.cpp -o c1m1_lab_4/toolkit && ./c1m1_lab_4/toolkit  
+// g++ C1m1_1.2_lab_2/*.cpp -o C1m1_1.2_lab_2/toolkit && ./C1m1_1.2_lab_2/toolkit  
 
 
 #include <iostream>

@@ -3,7 +3,7 @@ CXX = g++
 CXXFLAGS = -Wall -std=c++17
 TARGET = toolkit
 SRC = $(shell find . -name "*.cpp")
-# Alternatively, use: SRC = main.cpp header.cpp date/date_utils.cpp
+# Alternatively, use: SRC = main.cpp date/date_utils.cpp random/random_utils.cpp
 
 # The default rule that runs when you just type 'make'
 all: $(TARGET)

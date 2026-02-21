@@ -1,7 +1,7 @@
 
 /*
   Run code with command:
-  g++ c1m1_4_utils/myUtils.cpp c1m1_4_utils/main.cpp -o c1m1_4_utils/.gen && ./c1m1_4_utils/.gen  
+  g++ C1m1_1.2_1_utils/myUtils.cpp C1m1_1.2_1_utils/main.cpp -o C1m1_1.2_1_utils/.gen && ./C1m1_1.2_1_utils/.gen  
 */
 
 #include "myUtils.h"

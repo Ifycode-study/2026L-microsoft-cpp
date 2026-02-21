@@ -1,7 +1,7 @@
 
 /*
   Run code with command:
-  g++ c1m1_3_header/header.cpp c1m1_3_header/main.cpp -o c1m1_3_header/.gen && ./c1m1_3_header/.gen  
+  g++ C1m1_1.2_0_header/header.cpp C1m1_1.2_0_header/main.cpp -o C1m1_1.2_0_header/.gen && ./C1m1_1.2_0_header/.gen  
 */
 
 #include <iostream>
