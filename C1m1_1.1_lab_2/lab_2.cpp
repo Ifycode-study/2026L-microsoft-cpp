@@ -1,6 +1,6 @@
 /*
   Run code with command:
-  g++ c1m1_lab_2/lab_2.cpp -o c1m1_lab_2/lab_2 && ./c1m1_lab_2/lab_2  
+  g++ C1m1_1.1_lab_2/lab_2.cpp -o C1m1_1.1_lab_2/lab_2 && ./C1m1_1.1_lab_2/lab_2  
 */
 
 

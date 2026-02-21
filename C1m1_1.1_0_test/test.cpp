@@ -1,6 +1,6 @@
 /*
   Run code with command:
-  g++ c1m1_0_test/test.cpp -o c1m1_0_test/test && ./c1m1_0_test/test  
+  g++ C1m1_1.1_0_test/test.cpp -o C1m1_1.1_0_test/test && ./C1m1_1.1_0_test/test  
 */
 
 #include <iostream>
